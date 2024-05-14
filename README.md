@@ -1,6 +1,6 @@
 -----
 
-<div>
+<div align="center">
 <img align="center" alt="Header" src="https://github.com/Arthurrsm/arthurrsm/blob/main/img/github-header-image%20(3).png"/>
 </div>
 

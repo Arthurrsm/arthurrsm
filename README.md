@@ -62,3 +62,8 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=creeper224hd&count=10"/>
 </div>
 </div>
+
+--- Contador de visitas
+
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=arthurrsm"/>
+

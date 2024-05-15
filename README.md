@@ -48,21 +48,21 @@
 -----
 
 <div>
-<div>
-<details>
-<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Arthurrsm's Spotify Data</summary>
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=creeper224hd">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=creeper224hd" alt="Data Card for Spotify">
-</a>
-</details>
-</div>
-<div>
-<a href="https://www.last.fm/pt/user/arthurrsm" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=arthurrsm&width=400"/></a>
-</div>
-<div>
-<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=creeper224hd&cover_image=true&theme=default"/> &nbsp; &nbsp; 
-<img alt="Spotify list" src="https://spotify-recently-played-readme.vercel.app/api?user=creeper224hd&width=1000"/>
-</div>
+  <div>
+    <details>
+    <summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Arthurrsm's Spotify Data</summary>
+    <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=creeper224hd">
+      <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=creeper224hd" alt="Data Card for Spotify">
+    </a>
+    </details>
+  </div>
+  <div>
+    <a href="https://www.last.fm/pt/user/arthurrsm" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=arthurrsm&width=400"/></a>
+  </div>
+  <div>
+    <img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=creeper224hd&cover_image=true&theme=default"/> &nbsp; &nbsp; 
+    <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=creeper224hd&width=1000"/>
+  </div>
 </div>
 
 -----

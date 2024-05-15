@@ -61,7 +61,7 @@
   </div>
   <div>
     <img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=creeper224hd&cover_image=true&theme=default"/> &nbsp; &nbsp; 
-    <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=creeper224hd&count=10"/>
+    <img alt="Spotify list" width="220px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=creeper224hd&count=10"/>
   </div>
 </div>
 

@@ -24,7 +24,7 @@
 </td>
 <td><a href="https://www.linkedin.com/in/arthurrsm224/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://discord.gg/aqAyX3wrRv" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
@@ -37,15 +37,15 @@
 <i><b>Olá</b> :wave:, sou o <code>Arthur</code>, tenho 20 anos, moro em BH sou streamer e programador front-end. Atualmente eu estudo Ciência da Computação na universidade <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>.</i> :man_teacher:<br />
 </div>
 
------ SOBRE MIM
+-----
 
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
 
 <div align="justify">
-Teste
+<p>ESTA PARTE AINDA NÃO CONTÉM INFORMAÇÕES</p>
 </div>
 
---- Spotify
+-----
 
 <div>
 <div>
@@ -63,7 +63,7 @@ Teste
 </div>
 </div>
 
---- Contador de visitas
+-----
 
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=arthurrsm"/>
 

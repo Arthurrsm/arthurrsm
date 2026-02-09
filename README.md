@@ -34,7 +34,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Arthur</code>, tenho 20 anos, moro em BH sou streamer e Analista de Infraestrutura. Atualmente eu estudo Ciência da Computação na universidade <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>.</i> :man_teacher:<br />
+<i><b>Olá</b> :wave:, sou o <code>Arthur</code>, moro em BH sou streamer e Analista de Infraestrutura. Atualmente eu estudo Ciência da Computação na universidade <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>.</i> :man_teacher:<br />
 </div>
 
 -----
